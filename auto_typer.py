@@ -2,9 +2,9 @@ import sys
 import pyautogui
 import time
 
-MILLISECONDS_TO_SLEEP = 100
+MILLISECONDS_TO_SLEEP = 50
 # Number of milliseconds to sleep after typing each letter
-# Minimum 100 recommended
+# Minimum 50 recommended
 SAFETY = 0.25
 # Safe zone at upper left corner of the screen
 DEBUG = True
